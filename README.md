@@ -1,2 +1,2 @@
 # edenvicary.github.io
-A 🏡for my 👨🏼‍💻
+A 🏡 for my 👨🏼‍💻
