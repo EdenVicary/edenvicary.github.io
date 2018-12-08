@@ -1,2 +1,2 @@
 # edenvicary.github.io
-A 🏡 for my 👨🏼‍💻
+Public hosting of [edenvicary/edenvicary-hugo](https://github.com/edenvicary/edenvicary-hugo).
